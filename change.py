@@ -1,0 +1,3 @@
+#!/usr/bin/env python
+a=b=c=10
+print(a+b+c)
